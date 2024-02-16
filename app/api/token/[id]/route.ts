@@ -7,11 +7,11 @@ const IMAGES = [
   },
   {
     id: 1,
-    url: "https://www.infura.io/_next/image?url=https%3A%2F%2Finfura.ghost.io%2Fcontent%2Fimages%2F2023%2F12%2FUnlock-Simplicity-and-Security-with-Infura-Unified-Key-Experience_1200x628_text.png&w=3840&q=75"
+    url: "https://dummynfts.vercel.app/infura1.webp"
   },
   {
     id: 2,
-    url: "https://www.infura.io/_next/image?url=https%3A%2F%2Finfura.ghost.io%2Fcontent%2Fimages%2F2023%2F11%2FMastering-the-Gas-API-A-Guide-for-Developers_1200x628_text.png&w=3840&q=75"
+    url: "https://dummynfts.vercel.app/infura2.webp"
   },
   {
     id: 3,
@@ -19,7 +19,7 @@ const IMAGES = [
   },
   {
     id: 4,
-    url: "https://www.infura.io/_next/image?url=https%3A%2F%2Finfura.ghost.io%2Fcontent%2Fimages%2F2023%2F11%2Fimage1.png&w=3840&q=75"
+    url: "https://dummynfts.vercel.app/infura3.webp"
   },
   {
     id: 5,
