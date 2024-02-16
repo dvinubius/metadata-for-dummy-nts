@@ -47,8 +47,8 @@ const IMAGES = [
 export const GET = async (req: Request, { params } : {params: { id: string }}) => {
   const id = parseInt(params.id);
   const metadata = {
-    name: `#${id}`,
-    description: `A unique perspective #${id}`,
+    name: `dummy#${id}`,
+    description: `A unique perspective based on the number ${id}`,
     image: IMAGES[id % IMAGES.length].url,
     external_url: `https://dummynfts.vercel.app/api/token/${id}`,
     attributes: []
