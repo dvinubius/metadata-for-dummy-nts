@@ -31,7 +31,7 @@ const IMAGES = [
   },
   {
     id: 7,
-    url: "https://videos.ctfassets.net/gjyjx7gst9lo/7aF65nhm6B2jYlO4raI6no/f93e7bb61cdc4685183f3f3560b47d78/Infura_02__1_.mp4"
+    url: "https://images.ctfassets.net/gjyjx7gst9lo/5jvatLAMOoIkbmbUPZJd6s/54a3ffec933bc6818c2d56fbe7e60c80/How_Linea_Works_to_Build_the_World_s_Most_Secure_L2_1x1.png?fm=avif&q=100&w=650"
   },
   {
     id: 8,
